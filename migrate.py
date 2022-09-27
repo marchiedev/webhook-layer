@@ -1,0 +1,3 @@
+from migrations.create_webhooks_table import create_webhooks_table
+
+create_webhooks_table()
